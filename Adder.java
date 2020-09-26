@@ -16,7 +16,7 @@ public class Adder extends CalculateBase implements MathProcessing{
 
     @Override
     public String keyword(){
-        return "Add";
+        return "Subtract";
     }
 
     @Override
