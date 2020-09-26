@@ -11,7 +11,7 @@ public class Adder extends CalculateBase implements MathProcessing{
     @Override
     public void calculate(){
         double value = getLeftVal() + getRightVal();
-         setResult(value);
+         setResult(result);
     }
 
     @Override
