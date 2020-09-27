@@ -4,7 +4,7 @@ public class Adder extends CalculateBase implements MathProcessing{
 
 
     public Adder (){}
-    public Adder (double leftVal, double rightVal){
+    public Adder (int leftVal, double rightVal){
         super(leftVal, rightVal);
     }
 
