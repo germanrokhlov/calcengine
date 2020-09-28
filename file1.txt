@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Adding yet more code
 fix1
 	
+=======
+fix1
+>>>>>>> v.1.0_fixes
